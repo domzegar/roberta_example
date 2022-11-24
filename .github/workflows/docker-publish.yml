@@ -41,4 +41,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/domzegar/roberta_example
+          tags: dzegar/my_public_repo:roberta_example
